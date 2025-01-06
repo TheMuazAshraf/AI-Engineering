@@ -110,9 +110,9 @@ Contributions are welcome! If you have suggestions, find a bug, or want to add a
 
 Feel free to connect with me for feedback, suggestions, or collaboration:
 
-- **Email**: iammuazashraf1@gmail.com(mailto:iammuazashraf1@gmail.com)
-- **LinkedIn**: (https://linkedin.com/in/TheMuazAshraf)
-- **Twitter**: (https://twitter.com/TheMuazAshraf)
+- **Email**: iammuazashraf1@gmail.com
+- **LinkedIn**: https://linkedin.com/in/TheMuazAshraf
+- **Twitter**: https://twitter.com/TheMuazAshraf
 
 ---
 
